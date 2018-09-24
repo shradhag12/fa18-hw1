@@ -5,16 +5,16 @@ end
 
 def sort_array_plus_one(a)
   a.sort
-  i = 0 
-  while i < a.length: 
+  i = 0
+  while i < a.length:
     a[i] += 1
     i += 1
-   return a 
-
+   return a
+#dvfd
 end
 
 def combine_name(first_name, last_name)
- 
+
 
 end
 
